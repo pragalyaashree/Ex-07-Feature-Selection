@@ -150,6 +150,9 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 
 ![image](https://github.com/pragalyaashree/Ex-07-Feature-Selection/assets/128135934/d8de416e-017f-42cb-99c8-d9ba6106d59b)
 
+![image](https://github.com/pragalyaashree/Ex-07-Feature-Selection/assets/128135934/722d9142-545b-421a-8ba7-4af164b808a0)
+
+
 ## RESULT
 The various feature selection techniques has been performed on a dataset and saved the data to a file. 
 
