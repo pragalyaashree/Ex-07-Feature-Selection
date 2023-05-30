@@ -132,37 +132,23 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 ```
 
 ## OUTPUT
-![OUTPUT](./1.png)
+![image](https://github.com/pragalyaashree/Ex-07-Feature-Selection/assets/128135934/a80f4507-5e5a-494d-baa9-12dba1beab89)
 
-![OUTPUT](./2.png)
+![image](https://github.com/pragalyaashree/Ex-07-Feature-Selection/assets/128135934/b4f6de5e-bfe4-44f4-97f2-13e27ccd5fc2)
 
-![OUTPUT](./3.png)
+![image](https://github.com/pragalyaashree/Ex-07-Feature-Selection/assets/128135934/a082e5ea-750c-476b-b9aa-4e0db2f6240f)
 
-![OUTPUT](./4.png)
+![image](https://github.com/pragalyaashree/Ex-07-Feature-Selection/assets/128135934/6697379c-70bb-4cb4-bc7c-e7d9ee21a0e6)
 
-![OUTPUT](./5.png)
+![image](https://github.com/pragalyaashree/Ex-07-Feature-Selection/assets/128135934/404fdca7-0bca-4bec-83da-bb53f8e9d6ae)
 
-![OUTPUT](./6.png)
+![image](https://github.com/pragalyaashree/Ex-07-Feature-Selection/assets/128135934/005c8faf-a64f-402a-bda9-009c5d83fc75)
 
-![OUTPUT](./7.png)
+![image](https://github.com/pragalyaashree/Ex-07-Feature-Selection/assets/128135934/d1657f5e-5f6e-4b13-93ad-0698325bbfd3)
 
-![OUTPUT](./8.png)
+![image](https://github.com/pragalyaashree/Ex-07-Feature-Selection/assets/128135934/e8dad940-be52-4427-8bae-33545b970037)
 
-![OUTPUT](./9.png)
-
-![OUTPUT](./10.png)
-
-![OUTPUT](./11.png)
-
-![OUTPUT](./12.png)
-
-![OUTPUT](./13.png)
-
-![OUTPUT](./14.png)
-
-![OUTPUT](./15.png)
-
-![OUTPUT](./16.png)
+![image](https://github.com/pragalyaashree/Ex-07-Feature-Selection/assets/128135934/d8de416e-017f-42cb-99c8-d9ba6106d59b)
 
 ## RESULT
 The various feature selection techniques has been performed on a dataset and saved the data to a file. 
